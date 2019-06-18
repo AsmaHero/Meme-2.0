@@ -7,7 +7,7 @@ Devekoped version of Meme-1.0. MemeMe is a meme-generating app that enables a us
 
 # ScreenShots:
 
-<img src="https://lh4.googleusercontent.com/qOSUlyEc5PJM9EjUro3LipwUdrMHsZUSqDSpXQiTo0H78bhMK2j8rE44LliamZoPRats2NS-0082HqZSv1QDFqxgqKQ5cvu_CNtUuCRikM-wOAPGFihALA8DR_BLiPtbBhr-Kw" width="200" height="300"> <img src="https://lh5.googleusercontent.com/9tQWC87AaBa60A2v2_hPwl-1uQenYLE4E55nlrZrm8VuRBLqEHjmHw7OMfb8x4Otiy-WSrkPkHc3b3rknPqKx7kLxJ54lMU4ZbHqsq_2XeIRygir27TrkRAZUUoKzzddW-DrFw" height="300"> <img src="https://lh5.googleusercontent.com/0YxONEa7YHcTKIAiAvzEaicaklSq_vkybrAMcpApMhWk6UnnXAOsTG_BRx6ehBZvGsNby4bO75gRN94tbGz_hXmXvZwWBZftU5ItR3Lr8cfUHASx-M2I4XRkS-sCjUfodl_fEg" height="300"> 
+<img src="https://lh4.googleusercontent.com/qOSUlyEc5PJM9EjUro3LipwUdrMHsZUSqDSpXQiTo0H78bhMK2j8rE44LliamZoPRats2NS-0082HqZSv1QDFqxgqKQ5cvu_CNtUuCRikM-wOAPGFihALA8DR_BLiPtbBhr-Kw" width="170" height="300"> <img src="https://lh5.googleusercontent.com/9tQWC87AaBa60A2v2_hPwl-1uQenYLE4E55nlrZrm8VuRBLqEHjmHw7OMfb8x4Otiy-WSrkPkHc3b3rknPqKx7kLxJ54lMU4ZbHqsq_2XeIRygir27TrkRAZUUoKzzddW-DrFw" width="170" height="300"> <img src="https://lh5.googleusercontent.com/0YxONEa7YHcTKIAiAvzEaicaklSq_vkybrAMcpApMhWk6UnnXAOsTG_BRx6ehBZvGsNby4bO75gRN94tbGz_hXmXvZwWBZftU5ItR3Lr8cfUHASx-M2I4XRkS-sCjUfodl_fEg" width="170" height="300"> 
 
 
 # Done by:
